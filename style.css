@@ -1,0 +1,97 @@
+#welcome-heading{
+    color: #ffffff;
+}
+
+#about-heading{
+    color: #ffffff;
+}
+
+#content-paragraph{
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.content-box{
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #3f7dd9;
+    border-radius: 20px;
+    padding: 50px 20px 20px 20px;
+    box-shadow: 8px 8px rgba(115, 138, 154, 0.38);
+}
+.alert-div{
+    width: 80%;
+}
+
+body{
+    background-image: url("images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+@media screen and (max-width: 770px) {
+    .content-box{
+        width: 80%;
+    }
+
+    .footer-container{
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+    }
+
+    #made-by{
+        font-size: 18px;
+        color: #ffffff;
+    }
+
+    #welcome-heading{
+        color: #ffffff;
+    }
+
+    #about-heading{
+        color: #ffffff;
+    }
+
+    #content-paragraph{
+        color: #ffffff;
+        font-size: 18px;
+    }
+
+    .list-heading{
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+    }
+    .para-tag-list-heading{
+        color: #ffffff;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+}
+
+.footer-container{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+
+}
+
+.made-by{
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.list-heading{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.para-tag-list-heading{
+    color: #ffffff;
+    font-size: 42px;
+}

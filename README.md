@@ -1,2 +1,4 @@
-# Fullstack-Lab-SemV
-What We are covering in our Entire session of Full Stack Developer Journey we will updated here day by day
+# FullStack-Semester-V
+
+## This is the repositroy where all the practical work of fullstack subject will be uploaded.
+## This subject is taught by Mr. Pankaj Kapoor
